@@ -1,0 +1,5 @@
+aiogram==2.25.1
+python-dotenv
+aiohttp==3.8.5
+telegraph
+flask==2.3.3

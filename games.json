@@ -1,0 +1,85 @@
+{
+  "Угадай по Emoji 🖼️": {
+    "type": "game_emoji_guess",
+    "rules": "Я присылаю эмодзи, а ты угадываешь, какое английское слово или фразу он означает. Пиши ответ в чат!",
+    "items": [
+      { "emoji": "🤔", "answers": ["think", "thinking"], "hint": "What you do with your brain." },
+      { "emoji": "👨‍💻", "answers": ["programmer", "developer", "coder"], "hint": "A person who writes code." },
+      { "emoji": "🔥💧", "answers": ["fire and water"], "hint": "Two opposite elements." },
+      { "emoji": "🇬🇧", "answers": ["great britain", "uk", "united kingdom"], "hint": "A European country." },
+      { "emoji": "😴", "answers": ["sleepy", "tired"], "hint": "How you feel late at night." },
+      { "emoji": "📚", "answers": ["book", "books", "library", "reading"], "hint": "You read these. They have pages and stories." },
+      { "emoji": "🎶", "answers": ["music", "song", "melody"], "hint": "You listen to this with your ears." },
+      { "emoji": "⏰", "answers": ["clock", "alarm", "time"], "hint": "It tells you the time and wakes you up." },
+      { "emoji": "🚀", "answers": ["rocket", "space", "spaceship"], "hint": "It flies to the moon and other planets." },
+      { "emoji": "🌍", "answers": ["world", "earth", "planet"], "hint": "The planet we all live on." },
+      { "emoji": "💡", "answers": ["idea", "lightbulb", "bright idea"], "hint": "A bright thought, or something that gives light." },
+      { "emoji": "🍔", "answers": ["burger", "hamburger"], "hint": "A popular fast food from America." },
+      { "emoji": "🍕", "answers": ["pizza"], "hint": "A popular food from Italy." },
+      { "emoji": "💻", "answers": ["computer", "laptop"], "hint": "You are probably using it right now to work or study." },
+      { "emoji": "📱", "answers": ["phone", "mobile", "smartphone"], "hint": "A small device you use to call people and browse the internet." }
+    ]
+  },
+  "Собери Слово  anagrams": {
+    "type": "game_anagram",
+    "rules": "Я присылаю слово с перемешанными буквами, а ты должен составить из них правильное английское слово.",
+    "items": [
+      { "task": "plepa", "answer": "apple", "hint": "A common fruit." },
+      { "task": "nurenr", "answer": "runner", "hint": "A person who runs." },
+      { "task": "hcetnki", "answer": "kitchen", "hint": "A room for cooking." },
+      { "task": "arigamr", "answer": "airgram", "hint": "A lightweight letter." },
+      { "task": "ocmupetr", "answer": "computer", "hint": "An electronic device." },
+      { "task": "lpyap", "answer": "apply", "hint": "To ask officially for something, often a job or a place at a university." },
+      { "task": "rnael", "answer": "learn", "hint": "To gain knowledge or skill." },
+      { "task": "etchare", "answer": "teacher", "hint": "A person who teaches, especially in a school." },
+      { "task": "tnusedt", "answer": "student", "hint": "A person who is studying at a school or university." },
+      { "task": "rdwo", "answer": "word", "hint": "A single unit of language." }
+    ]
+  },
+  "Правда или Ложь? 🕵️": {
+    "type": "game_true_false",
+    "rules": "Я присылаю утверждение на английском. Твоя задача — определить, правдиво оно или ложно, и нажать на соответствующую кнопку.",
+    "items": [
+      {
+        "statement": "'Bookkeeper' is the only English word with three consecutive double letters.",
+        "answer": "True",
+        "explanation": "Indeed, 'bookkeeper' has 'oo', 'kk', and 'ee' in a row."
+      },
+      {
+        "statement": "The word 'sushi' is Japanese for 'raw fish'.",
+        "answer": "False",
+        "explanation": "'Sushi' actually refers to the vinegared rice, not the fish."
+      },
+      {
+        "statement": "Adjectives in English always come before the noun.",
+        "answer": "False",
+        "explanation": "Not always. For example: 'The cat is *black*.' or 'Something *important* is happening.'"
+      },
+      {
+        "statement": "The shortest complete sentence in English is 'I am'.",
+        "answer": "True",
+        "explanation": "While 'Go!' is shorter, 'I am' contains both a subject and a verb to form a complete thought."
+      },
+      {
+        "statement": "The word 'set' has more definitions than any other word in the English language.",
+        "answer": "True",
+        "explanation": "According to the Oxford English Dictionary, 'set' holds the record for the most definitions."
+      },
+      {
+        "statement": "English is the official language of the United States.",
+        "answer": "False",
+        "explanation": "The United States does not have an official language at the federal level."
+      },
+      {
+        "statement": "The letter 'E' is the most common letter in the English alphabet.",
+        "answer": "True",
+        "explanation": "The letter 'E' appears most frequently in written English."
+      },
+      {
+        "statement": "A 'palindromic word' reads the same backward as forward.",
+        "answer": "True",
+        "explanation": "Words like 'madam', 'level', and 'refer' are palindromes."
+      }
+    ]
+  }
+}

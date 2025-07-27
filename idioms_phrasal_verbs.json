@@ -1,0 +1,146 @@
+{
+  "Common Idioms ✨": [
+    {
+      "phrase": "Break a leg",
+      "transcription": "/breɪk ə leɡ/",
+      "translation": "Ни пуха ни пера!",
+      "meaning": "Good luck! (Used to wish someone good luck,especially before a performance)",
+      "example_sentence": "You have a big presentation tomorrow. Break a leg!"
+    },
+    {
+      "phrase": "Bite the bullet",
+      "transcription": "/baɪt ðə ˈbʊlɪt/",
+      "translation": "Стиснуть зубы, принять неприятность",
+      "meaning": "To endure a difficult or unpleasant situation.",
+      "example_sentence": "I hate going to the dentist, but I'll have to bite the bullet and go."
+    },
+    {
+      "phrase": "Cost an arm and a leg",
+      "transcription": "/kɒst ən ɑːrm ənd ə leɡ/",
+      "translation": "Стоить целое состояние, очень дорого",
+      "meaning": "To be very expensive.",
+      "example_sentence": "That designer bag must have cost an arm and a leg."
+    },
+    {
+      "phrase": "Hit the road",
+      "transcription": "/hɪt ðə roʊd/",
+      "translation": "Отправиться в путь, двинуться в дорогу",
+      "meaning": "To leave a place; to start a journey.",
+      "example_sentence": "It's getting late, we should hit the road."
+    },
+    {
+      "phrase": "Pull yourself together",
+      "transcription": "/pʊl jərˈsɛlf təˈɡɛðər/",
+      "translation": "Взять себя в руки, собраться",
+      "meaning": "To calm down and behave normally after being angry or upset.",
+      "example_sentence": "Come on, pull yourself together! It's not that bad."
+    },
+    {
+      "phrase": "Under the weather",
+      "transcription": "/ˈʌndər ðə ˈwɛðər/",
+      "translation": "Неважно себя чувствовать, приболеть",
+      "meaning": "Feeling unwell or sick.",
+      "example_sentence": "I'm feeling a bit under the weather today, I think I'm catching a cold."
+    },
+    {
+      "phrase": "Speak of the devil",
+      "transcription": "/spiːk əv ðə ˈdɛvl/",
+      "translation": "Легок на помине",
+      "meaning": "Said when a person you have just been talking about appears.",
+      "example_sentence": "Speak of the devil, here's Tom now!"
+    },
+    {
+      "phrase": "Miss the boat",
+      "transcription": "/mɪs ðə boʊt/",
+      "translation": "Упустить возможность",
+      "meaning": "To lose an opportunity by being too slow to act.",
+      "example_sentence": "If you don't apply for the scholarship now, you'll miss the boat."
+    },
+    {
+      "phrase": "Once in a blue moon",
+      "transcription": "/wʌns ɪn ə bluː muːn/",
+      "translation": "Очень редко",
+      "meaning": "Very rarely.",
+      "example_sentence": "My sister lives in Australia, so I only see her once in a blue moon."
+    },
+    {
+      "phrase": "A piece of cake",
+      "transcription": "/ə piːs əv keɪk/",
+      "translation": "Очень легко, пустячное дело",
+      "meaning": "Something that is very easy to do.",
+      "example_sentence": "The exam was a piece of cake."
+    }
+  ],
+  "Common Phrasal Verbs 🗣️": [
+    {
+      "phrase": "Look up",
+      "transcription": "/lʊk ʌp/",
+      "translation": "Искать (информацию)",
+      "meaning": "To find information in a book or on a computer.",
+      "example_sentence": "If you don't know the word, look it up in the dictionary."
+    },
+    {
+      "phrase": "Give up",
+      "transcription": "/ɡɪv ʌp/",
+      "translation": "Сдаваться, бросать",
+      "meaning": "To stop trying to do something; to abandon an effort.",
+      "example_sentence": "Don't give up! You're almost there."
+    },
+    {
+      "phrase": "Run out of",
+      "transcription": "/rʌn aʊt əv/",
+      "translation": "Закончиться, исчерпаться",
+      "meaning": "To use all of something so that there is none left.",
+      "example_sentence": "We've run out of milk, I need to buy some more."
+    },
+    {
+      "phrase": "Come up with",
+      "transcription": "/kʌm ʌp wɪð/",
+      "translation": "Придумать, предложить (идею)",
+      "meaning": "To think of an idea, plan, or solution.",
+      "example_sentence": "Can you come up with a better idea for the project?"
+    },
+    {
+      "phrase": "Take off",
+      "transcription": "/teɪk ɒf/",
+      "translation": "Взлетать (о самолете); снимать (одежду)",
+      "meaning": "(Of an aircraft) to leave the ground; to remove clothes.",
+      "example_sentence": "The plane will take off in 10 minutes. / Please take off your shoes."
+    },
+    {
+      "phrase": "Go on",
+      "transcription": "/ɡoʊ ɒn/",
+      "translation": "Продолжать; происходить",
+      "meaning": "To continue; to happen.",
+      "example_sentence": "Please go on with your story. / What's going on here?"
+    },
+    {
+      "phrase": "Put off",
+      "transcription": "/pʊt ɒf/",
+      "translation": "Откладывать",
+      "meaning": "To postpone something.",
+      "example_sentence": "Don't put off until tomorrow what you can do today."
+    },
+    {
+      "phrase": "Break down",
+      "transcription": "/breɪk daʊn/",
+      "translation": "Сломаться (о машине); потерять самообладание",
+      "meaning": "(Of a machine or vehicle) to stop working; to lose control of one's feelings.",
+      "example_sentence": "My car broke down on the way to work. / She broke down in tears."
+    },
+    {
+      "phrase": "Call off",
+      "transcription": "/kɔːl ɒf/",
+      "translation": "Отменять",
+      "meaning": "To cancel something.",
+      "example_sentence": "They had to call off the football match due to heavy rain."
+    },
+    {
+      "phrase": "Get along with",
+      "transcription": "/ɡɛt əˈlɒŋ wɪð/",
+      "translation": "Ладить с кем-то",
+      "meaning": "To have a friendly relationship with someone.",
+      "example_sentence": "Do you get along with your colleagues?"
+    }
+  ]
+}

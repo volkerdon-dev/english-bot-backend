@@ -1,0 +1,149 @@
+{
+  "reading": {
+    "Reading Test 1 (Free)": {
+      "type": "interactive_reading",
+      "title": "IELTS Reading — Test 1: Full Practice",
+      "time_limit_minutes": 60,
+      "instructions": "This section has 3 passages and 40 questions. You have 60 minutes to complete the test. Read each passage carefully and answer the questions that follow. You can navigate back and forth between questions. Your score will be calculated at the end.",
+      "sections": [
+        {
+          "section_title": "Passage 1: The Impact of Remote Work",
+          "passage_text": "🧠 *IELTS Reading Passage 1: The Impact of Remote Work*\n\n The landscape of employment has undergone a profound transformation in recent years, largely propelled by advancements in digital technology and, more recently, by global events. Remote work, once a niche concept, has rapidly evolved into a mainstream practice, reshaping traditional office dynamics and offering both unparalleled flexibility and new challenges. This shift has ignited debates among economists, sociologists, and business leaders regarding its long-term implications for productivity, employee well-being, and urban development.\n\n Advocates of remote work emphasize its potential to enhance work-life balance, reduce commuting times, and provide access to a broader talent pool, unconstrained by geographical limitations. Companies can potentially cut down on overhead costs associated with physical office spaces, and employees might experience increased autonomy and reduced stress. Furthermore, a decentralized workforce can contribute to environmental benefits by lowering carbon emissions from transportation.\n\n However, the transition is not without its complexities. Concerns abound regarding potential pitfalls such as diminished team cohesion, difficulties in fostering a strong company culture, and the blurring lines between professional and personal life. Some argue that spontaneous collaboration and innovation, often sparked by informal in-person interactions, may suffer in a fully remote setup. Moreover, not all industries or roles are conducive to remote work, creating disparities and potentially exacerbating inequalities.\n\n The future of work is likely to be a hybrid model, combining elements of both office-based and remote arrangements. This approach aims to leverage the advantages of flexibility while mitigating the disadvantages of isolation and communication gaps. Companies are experimenting with flexible office hours, 'hot-desking' environments, and enhanced virtual collaboration tools to find the optimal balance. The success of this hybrid evolution will depend on robust technological infrastructure, adaptive management strategies, and a sustained focus on fostering human connection in a digitally connected world.",
+          "questions": [
+            {
+              "question_number": 1,
+              "text": "What is identified as a primary factor driving the increase in remote work?",
+              "options": ["A. Desire for shorter workdays", "B. Advancements in digital technology", "C. Government mandates", "D. Lower employee salaries"],
+              "correct_answer": "B. Advancements in digital technology",
+              "explanation": "The passage states: 'The landscape of employment has undergone a profound transformation in recent years, largely propelled by advancements in digital technology and, more recently, by global events.'"
+            },
+            {
+              "question_number": 2,
+              "text": "Which of the following is NOT listed as a potential benefit of remote work for employees?",
+              "options": ["A. Increased autonomy", "B. Reduced stress", "C. Guaranteed promotions", "D. Improved work-life balance"],
+              "correct_answer": "C. Guaranteed promotions",
+              "explanation": "The passage mentions 'enhance work-life balance, reduce commuting times, and employees might experience increased autonomy and reduced stress.' Guaranteed promotions are not mentioned as a benefit."
+            }
+          ]
+        },
+        {
+          "section_title": "Passage 2: The History of Coffee",
+          "passage_text": "🧠 *IELTS Reading Passage 2: The History of Coffee*\n\n Coffee, a beverage consumed globally, has a rich and complex history intertwined with trade, culture, and social development. Its origins are widely attributed to the ancient coffee forests on the Ethiopian plateau. Legend has it that a goat herder named Kaldi first discovered the stimulating effects of coffee beans when he noticed his goats became unusually energetic after eating berries from a certain tree. Kaldi reported his findings to the abbot of a local monastery, who initially disapproved but later found that a beverage made from the berries helped him stay awake during long hours of prayer.\n\n From Ethiopia, coffee cultivation spread to the Arabian Peninsula, where it was first cultivated in Yemen. By the 15th century, coffee was being grown in the Yemeni district of Arabia and, by the 16th century, it was known in Persia, Egypt, Syria, and Turkey. Coffee was not just a drink; coffee houses, known as *qahveh khaneh*, began to appear in the Near East, serving as centers for social interaction, information exchange, and intellectual discussion. These establishments became immensely popular, fostering a vibrant social and political culture.\n\n The expansion of coffee consumption into Europe was initially met with suspicion, primarily due to its origins in the Islamic world. However, its popularity soared after Pope Clement VIII tasted it in the early 17th century and reportedly declared it a 'Christian beverage.' Venetian merchants played a crucial role in introducing coffee to Western Europe. The first European coffee house opened in Venice in 1645. Soon, coffee houses became prevalent across major European cities, mirroring their Near Eastern counterparts as hubs of intellectual and social life.\n\n The global demand for coffee led to its cultivation spreading to new regions, including the Dutch East Indies (modern-day Indonesia) and the Americas. The Dutch were instrumental in introducing coffee to Ceylon and Java, while French colonists brought it to the Caribbean and Central and South America. Brazil, in particular, emerged as a dominant force in coffee production by the 19th century, transforming its economy and solidifying coffee's status as a global commodity. Today, coffee remains one of the world's most traded agricultural products, a testament to its enduring appeal and profound historical impact.",
+          "questions": [
+            {
+              "question_number": 3,
+              "text": "Where is coffee cultivation first attributed to?",
+              "options": ["A. Yemen", "B. Turkey", "C. Ethiopian plateau", "D. Brazil"],
+              "correct_answer": "C. Ethiopian plateau",
+              "explanation": "The passage states: 'Its origins are widely attributed to the ancient coffee forests on the Ethiopian plateau.'"
+            },
+            {
+              "question_number": 4,
+              "text": "What was the initial reaction of the abbot to Kaldi's discovery?",
+              "options": ["A. He immediately approved.", "B. He consumed it regularly.", "C. He initially disapproved but later found it useful.", "D. He shared it with everyone."],
+              "correct_answer": "C. He initially disapproved but later found it useful.",
+              "explanation": "The passage says: 'Kaldi reported his findings to the abbot of a local monastery, who initially disapproved but later found that a beverage made from the berries helped him stay awake during long hours of prayer.'"
+            }
+          ]
+        },
+        {
+          "section_title": "Passage 3: The Benefits of Bilingualism",
+          "passage_text": "🧠 *IELTS Reading Passage 3: The Benefits of Bilingualism*\n\n In an increasingly interconnected world, the ability to speak more than one language is becoming less of a novelty and more of a valuable asset. Beyond the obvious advantage of facilitating communication across cultures, research has revealed a host of cognitive, social, and even economic benefits associated with bilingualism. The traditional view that learning multiple languages in childhood might confuse a child or hinder linguistic development has largely been debunked by contemporary scientific understanding.\n\n From a cognitive perspective, studies show that bilingual individuals often exhibit enhanced executive functions, which include skills such as problem-solving, task-switching, and selective attention. The constant mental toggling between two language systems appears to strengthen these cognitive muscles. Furthermore, bilingualism has been linked to a delayed onset of age-related cognitive decline, including conditions like Alzheimer's disease, suggesting a 'cognitive reserve' built through linguistic agility.\n\n Socially, bilinguals gain a deeper appreciation for diverse cultures and a broader worldview. They can more easily connect with a wider range of people, leading to richer social interactions and a greater sense of global citizenship. This cultural fluency can also open doors to unique travel experiences and personal enrichment. Economically, bilingualism is a highly sought-after skill in the global job market, offering competitive advantages in various sectors, from international business and diplomacy to education and healthcare.\n\n While acquiring a second language requires effort and dedication, especially later in life, the myriad benefits clearly outweigh the challenges. Promoting bilingual education and fostering multilingual environments from a young age can contribute significantly to individual development and societal progress. As the world continues to shrink through technology and travel, bilingualism stands as a powerful tool for navigating its complexities and unlocking new opportunities.",
+          "questions": [
+            {
+              "question_number": 5,
+              "text": "What traditional view about learning multiple languages in childhood has been largely debunked?",
+              "options": ["A. It improves academic performance.", "B. It might confuse a child or hinder linguistic development.", "C. It leads to increased social isolation.", "D. It is only beneficial for adults."],
+              "correct_answer": "B. It might confuse a child or hinder linguistic development.",
+              "explanation": "The passage states: 'The traditional view that learning multiple languages in childhood might confuse a child or hinder linguistic development has largely been debunked by contemporary scientific understanding.'"
+            },
+            {
+              "question_number": 6,
+              "text": "Which of the following cognitive benefits is NOT mentioned as being associated with bilingualism?",
+              "options": ["A. Enhanced problem-solving skills", "B. Improved mathematical ability", "C. Better task-switching", "D. Delayed onset of age-related cognitive decline"],
+              "correct_answer": "B. Improved mathematical ability",
+              "explanation": "The passage mentions 'enhanced executive functions, which include skills such as problem-solving, task-switching, and selective attention' and 'delayed onset of age-related cognitive decline.' Improved mathematical ability is not mentioned."
+            },
+            {
+              "question_number": 7,
+              "text": "According to the passage, what is a social benefit of bilingualism?",
+              "options": ["A. Access to higher salaries", "B. A deeper appreciation for diverse cultures", "C. Reduced need for travel", "D. Faster reading speed"],
+              "correct_answer": "B. A deeper appreciation for diverse cultures",
+              "explanation": "The passage states: 'Socially, bilinguals gain a deeper appreciation for diverse cultures and a broader worldview.'"
+            },
+            {
+              "question_number": 8,
+              "text": "In the global job market, bilingualism is described as a:",
+              "options": ["A. Common requirement", "B. Minor advantage", "C. Highly sought-after skill", "D. Detriment"],
+              "correct_answer": "C. Highly sought-after skill",
+              "explanation": "The passage indicates: 'Economically, bilingualism is a highly sought-after skill in the global job market, offering competitive advantages in various sectors...'"
+            }
+          ]
+        }
+      ],
+      "model_answers": {
+        "band_6": "This is a combined model answer for all passages at Band 6 level.",
+        "band_7": "This is a combined model answer for all passages at Band 7 level.",
+        "band_8": "This is a combined model answer for all passages at Band 8 level.",
+        "band_9": "This is a combined model answer for all passages at Band 9 level."
+      }
+    },
+    "Reading Test 2 (Free)": {
+      "type": "interactive_reading",
+      "title": "IELTS Reading — Test 2: The History of Coffee",
+      "time_limit_minutes": 20,
+      "passage": "🧠 *IELTS Reading Passage: The History of Coffee*\n\n Coffee, a beverage consumed globally, has a rich and complex history intertwined with trade, culture, and social development. Its origins are widely attributed to the ancient coffee forests on the Ethiopian plateau. Legend has it that a goat herder named Kaldi first discovered the stimulating effects of coffee beans when he noticed his goats became unusually energetic after eating berries from a certain tree. Kaldi reported his findings to the abbot of a local monastery, who initially disapproved but later found that a beverage made from the berries helped him stay awake during long hours of prayer.\n\n From Ethiopia, coffee cultivation spread to the Arabian Peninsula, where it was first cultivated in Yemen. By the 15th century, coffee was being grown in the Yemeni district of Arabia and, by the 16th century, it was known in Persia, Egypt, Syria, and Turkey. Coffee was not just a drink; coffee houses, known as *qahveh khaneh*, began to appear in the Near East, serving as centers for social interaction, information exchange, and intellectual discussion. These establishments became immensely popular, fostering a vibrant social and political culture.\n\n The expansion of coffee consumption into Europe was initially met with suspicion, primarily due to its origins in the Islamic world. However, its popularity soared after Pope Clement VIII tasted it in the early 17th century and reportedly declared it a 'Christian beverage.' Venetian merchants played a crucial role in introducing coffee to Western Europe. The first European coffee house opened in Venice in 1645. Soon, coffee houses became prevalent across major European cities, mirroring their Near Eastern counterparts as hubs of intellectual and social life.\n\n The global demand for coffee led to its cultivation spreading to new regions, including the Dutch East Indies (modern-day Indonesia) and the Americas. The Dutch were instrumental in introducing coffee to Ceylon and Java, while French colonists brought it to the Caribbean and Central and South America. Brazil, in particular, emerged as a dominant force in coffee production by the 19th century, transforming its economy and solidifying coffee's status as a global commodity. Today, coffee remains one of the world's most traded agricultural products, a testament to its enduring appeal and profound historical impact.",
+      "questions": [
+        {
+          "question_number": 1,
+          "text": "Where is coffee cultivation first attributed to?",
+          "options": ["A. Yemen", "B. Turkey", "C. Ethiopian plateau", "D. Brazil"],
+          "correct_answer": "C. Ethiopian plateau",
+          "explanation": "The passage states: 'Its origins are widely attributed to the ancient coffee forests on the Ethiopian plateau.'"
+        },
+        {
+          "question_number": 2,
+          "text": "What was the initial reaction of the abbot to Kaldi's discovery?",
+          "options": ["A. He immediately approved.", "B. He consumed it regularly.", "C. He initially disapproved but later found it useful.", "D. He shared it with everyone."],
+          "correct_answer": "C. He initially disapproved but later found it useful.",
+          "explanation": "The passage says: 'Kaldi reported his findings to the abbot of a local monastery, who initially disapproved but later found that a beverage made from the berries helped him stay awake during long hours of prayer.'"
+        },
+        {
+          "question_number": 3,
+          "text": "What role did *qahveh khaneh* play in the Near East?",
+          "options": ["A. They were only places for trading coffee beans.", "B. They served as centers for social and intellectual interaction.", "C. They were religious institutions.", "D. They were primarily used for coffee cultivation planning."],
+          "correct_answer": "B. They served as centers for social and intellectual interaction.",
+          "explanation": "The text states: 'coffee houses, known as qahveh khaneh, began to appear in the Near East, serving as centers for social interaction, information exchange, and and intellectual discussion.'"
+        }
+      ],
+      "model_answers": {
+        "band_6": "Coffee came from Ethiopia, and then went to Arabia. Coffee houses were places for people to talk. Europeans didn't like it at first, but then a Pope said it was okay. The Dutch and French helped coffee go all over the world, and Brazil makes a lot now.",
+        "band_7": "Originating in Ethiopia, coffee's use spread to the Arabian Peninsula, where coffee houses became vital social and intellectual hubs. Despite initial European skepticism, its acceptance followed papal approval, with Venetian merchants facilitating its introduction. Global cultivation expanded through Dutch and French efforts, establishing Brazil as a major producer, underscoring coffee's enduring international significance.",
+        "band_8": "The global phenomenon of coffee consumption traces its roots to the Ethiopian plateau, from where it diffused into the Arabian Peninsula. There, *qahveh khaneh* emerged as pivotal centers for social and intellectual discourse. Its hesitant reception in Europe transformed after papal endorsement, with Venetian traders instrumental in its introduction. Subsequent colonial expansion by the Dutch and French propagated cultivation worldwide, culminating in Brazil's ascendance as a coffee powerhouse, testifying to its profound historical and economic impact.",
+        "band_9": "The ubiquitous beverage, coffee, possesses an intricate provenance deeply interwoven with global trade, cultural evolution, and societal dynamics. Its genesis is widely ascribed to the ancient arboreal tracts of the Ethiopian plateau, thence migrating to the Arabian Peninsula, where *qahveh khaneh* rapidly proliferated as crucibles of intellectual exchange and vibrant sociality. European adoption, initially fraught with suspicion, was ultimately catalyzed by papal sanction and mercantile introduction via Venice. Subsequent colonial endeavors by Dutch and French powers orchestrated its global dissemination, conspicuously elevating Brazil to a preeminent position in its production by the 19th century, thereby cementing coffee's indelible legacy as a paramount global commodity."
+      }
+    }
+  },
+  "writing": {
+    "Task 1": {
+      "type": "text",
+      "content": "✍️ *IELTS Writing — Task 1*\n\nThe chart shows smartphone ownership from 2010 to 2020.\n\n*Write a summary of the main trends and compare the data where relevant.*"
+    },
+    "Task 2": {
+      "type": "text",
+      "content": "✍️ *IELTS Writing — Task 2*\n\n*Topic:*\nSome people believe that students should study in groups, while others think they should study alone.\n\n*Discuss both views and give your own opinion.*"
+    },
+    "Task 3": {
+      "type": "text",
+      "content": "✍️ *IELTS Writing — Task 3*\n\n*Describe the process of making recycled paper using the diagram provided.*"
+    },
+    "Task 4": {
+      "type": "text",
+      "content": "✍️ *IELTS Writing — Task 4*\n\n*Topic:*\nMore and more people are working from home. Is this a positive or negative development?\n\n*Give reasons for your answer and include examples from your own experience.*"
+    },
+    "Task 5": {
+      "type": "text",
+      "content": "✍️ *IELTS Writing — Task 5*\n\n*Topic:*\nGovernments should invest more in public transport than in building new roads.\n\n*To what extent do you agree or disagree?*"
+    }
+  }
+}

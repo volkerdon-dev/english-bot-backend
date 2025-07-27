@@ -1,0 +1,42 @@
+{
+  "🧪 Mini Tests": {
+    "Present Simple Test": {
+      "questions": [
+        {
+          "q": "❓ He ___ to school every day.",
+          "options": ["go", "goes", "going"],
+          "answer": "goes"
+        },
+        {
+          "q": "❓ Do you ___ coffee?",
+          "options": ["like", "likes", "liking"],
+          "answer": "like"
+        },
+        {
+          "q": "❓ She ___ not work here.",
+          "options": ["do", "does", "is"],
+          "answer": "does"
+        }
+      ]
+    }
+  },
+  "🧠 Grammar Practice": {
+    "Present Simple": {
+      "questions": [
+        {
+          "q": "❓ Choose the correct sentence:",
+          "options": [
+            "He does not like coffee.",
+            "He doesn't like coffee.",
+            "He doesn't likes coffee."
+          ],
+          "answer": "He doesn't like coffee."
+        }
+      ]
+    }
+  },
+  "📗 Vocabulary Quiz": "To be updated",
+  "📝 Sentence Builder": "To be updated",
+  "🔁 Mixed Practice": "To be updated",
+  "🏆 Challenge of the Day": "To be updated"
+}

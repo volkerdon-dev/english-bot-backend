@@ -1,0 +1,98 @@
+{
+  "Verb + Noun  verbs": [
+    {
+      "collocation": "make a decision",
+      "translation": "принять решение",
+      "meaning": "To decide something.",
+      "example_sentence": "It's time to make a decision about our vacation."
+    },
+    {
+      "collocation": "take a break",
+      "translation": "сделать перерыв",
+      "meaning": "To stop working for a short time.",
+      "example_sentence": "Let's take a break and get some coffee."
+    },
+    {
+      "collocation": "do homework",
+      "translation": "делать домашнее задание",
+      "meaning": "To complete school assignments.",
+      "example_sentence": "I need to do my homework before I can play."
+    },
+    {
+      "collocation": "have a dream",
+      "translation": "видеть сон, мечтать",
+      "meaning": "To experience images and sensations during sleep; to have an ambition.",
+      "example_sentence": "I had a strange dream last night."
+    },
+    {
+      "collocation": "catch a cold",
+      "translation": "простудиться",
+      "meaning": "To become ill with a cold.",
+      "example_sentence": "Wear a coat, you don't want to catch a cold."
+    }
+  ],
+  "Adjective + Noun adj": [
+    {
+      "collocation": "heavy rain",
+      "translation": "сильный дождь",
+      "meaning": "A lot of rain.",
+      "example_sentence": "We couldn't go out because of the heavy rain."
+    },
+    {
+      "collocation": "strong coffee",
+      "translation": "крепкий кофе",
+      "meaning": "Coffee with a powerful flavor.",
+      "example_sentence": "I need a strong coffee to wake up."
+    },
+    {
+      "collocation": "fast food",
+      "translation": "фастфуд",
+      "meaning": "Food that can be prepared and served quickly.",
+      "example_sentence": "We often eat fast food when we're in a hurry."
+    },
+    {
+      "collocation": "deep sleep",
+      "translation": "крепкий сон",
+      "meaning": "A state of profound sleep.",
+      "example_sentence": "He was in a deep sleep and didn't hear the alarm."
+    },
+    {
+      "collocation": "bright idea",
+      "translation": "блестящая идея",
+      "meaning": "A clever or ingenious idea.",
+      "example_sentence": "That's a bright idea! Why didn't I think of that?"
+    }
+  ],
+  "Adverb + Adjective adv": [
+    {
+      "collocation": "fully aware",
+      "translation": "полностью осознающий",
+      "meaning": "Completely conscious or knowledgeable about something.",
+      "example_sentence": "He was fully aware of the risks involved."
+    },
+    {
+      "collocation": "highly unlikely",
+      "translation": "крайне маловероятно",
+      "meaning": "Very improbable.",
+      "example_sentence": "It's highly unlikely that she'll change her mind."
+    },
+    {
+      "collocation": "terribly sorry",
+      "translation": "ужасно сожалею",
+      "meaning": "Extremely apologetic.",
+      "example_sentence": "I'm terribly sorry for the inconvenience."
+    },
+    {
+      "collocation": "perfectly normal",
+      "translation": "абсолютно нормально",
+      "meaning": "Completely typical or usual.",
+      "example_sentence": "It's perfectly normal to feel nervous before a big exam."
+    },
+    {
+      "collocation": "bitterly cold",
+      "translation": "очень холодно, лютый холод",
+      "meaning": "Extremely cold in a way that is unpleasant.",
+      "example_sentence": "It was bitterly cold outside, so we stayed indoors."
+    }
+  ]
+}

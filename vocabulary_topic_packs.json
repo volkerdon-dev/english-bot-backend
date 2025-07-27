@@ -1,0 +1,557 @@
+{
+  "Travel ✈️": {
+    "words": [
+      {
+        "word": "Passport",
+        "transcription": "/ˈpæspɔːrt/",
+        "translation": "паспорт",
+        "definition": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+        "example_sentence": "Don't forget your passport when traveling internationally."
+      },
+      {
+        "word": "Boarding pass",
+        "transcription": "/ˈbɔːrdɪŋ pæs/",
+        "translation": "посадочный талон",
+        "definition": "A pass that allows you to board a ship or plane.",
+        "example_sentence": "Please have your boarding pass ready at the gate."
+      },
+      {
+        "word": "Check-in",
+        "transcription": "/ˈtʃekɪn/",
+        "translation": "регистрация",
+        "definition": "The act of reporting one's arrival (at a hotel, airport, etc.).",
+        "example_sentence": "We need to check in at the airport two hours before the flight."
+      },
+      {
+        "word": "Security check",
+        "transcription": "/sɪˈkjʊrəti tʃek/",
+        "translation": "проверка безопасности",
+        "definition": "An inspection or evaluation performed to determine compliance with security requirements.",
+        "example_sentence": "All passengers must go through a security check before boarding."
+      },
+      {
+        "word": "Reservation",
+        "transcription": "/ˌrɛzərˈveɪʃən/",
+        "translation": "бронь",
+        "definition": "An arrangement to have something (as a hotel room or a table in a restaurant) held for one's use at a later time.",
+        "example_sentence": "Do you have a reservation for tonight?"
+      },
+      {
+        "word": "Reception",
+        "transcription": "/rɪˈsɛpʃən/",
+        "translation": "стойка регистрации",
+        "definition": "The area in a hotel or office building where guests or visitors are greeted.",
+        "example_sentence": "Ask at the reception desk for your room key."
+      },
+      {
+        "word": "Check-out",
+        "transcription": "/ˈtʃekˌaʊt/",
+        "translation": "выписка (из отеля)",
+        "definition": "The time by which a hotel guest must vacate their room.",
+        "example_sentence": "Check-out time at the hotel is 11 AM."
+      },
+      {
+        "word": "Landmark",
+        "transcription": "/ˈlændmɑːrk/",
+        "translation": "достопримечательность",
+        "definition": "An object or feature of a landscape or town that is easily seen and recognized.",
+        "example_sentence": "The Eiffel Tower is a famous landmark in Paris."
+      },
+      {
+        "word": "Tourist",
+        "transcription": "/ˈtʊrɪst/",
+        "translation": "турист",
+        "definition": "A person who is traveling or visiting a place for pleasure or interest.",
+        "example_sentence": "Many tourists visit Antalya each year."
+      },
+      {
+        "word": "Attraction",
+        "transcription": "/əˈtrækʃən/",
+        "translation": "достопримечательность, аттракцион",
+        "definition": "A place or feature that draws visitors by providing something of interest or pleasure.",
+        "example_sentence": "The museum is the city's main tourist attraction."
+      },
+      {
+        "word": "Sightseeing",
+        "transcription": "/ˈsaɪtˌsiːɪŋ/",
+        "translation": "осмотр достопримечательностей",
+        "definition": "The activity of visiting interesting places, especially by tourists.",
+      "example_sentence": "We spent the whole day sightseeing in Rome."
+      },
+      {
+        "word": "Directions",
+        "transcription": "/dəˈrɛkʃənz/",
+        "translation": "направления",
+        "definition": "Instructions about how to get from one place to another.",
+        "example_sentence": "Can you give me directions to the nearest train station?"
+      },
+      {
+        "word": "Map",
+        "transcription": "/mæp/",
+        "translation": "карта",
+        "definition": "A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+        "example_sentence": "We used a map to find our way around the city."
+      },
+      {
+        "word": "Souvenir",
+        "transcription": "/ˌsuːvəˈnɪər/",
+        "translation": "сувенир",
+        "definition": "A thing that is kept as a reminder of a person, place, or event.",
+        "example_sentence": "I bought a small souvenir from my trip to London."
+      },
+      {
+        "word": "Bargain",
+        "transcription": "/ˈbɑːrɡən/",
+        "translation": "выгодная покупка, сделка",
+        "definition": "A thing bought or offered for sale much more cheaply than is usual or expected.",
+        "example_sentence": "This dress was a real bargain."
+      },
+      {
+        "word": "Market",
+        "transcription": "/ˈmɑːrkɪt/",
+        "translation": "рынок",
+        "definition": "A place where goods are bought and sold, typically an open-air area or a covered building.",
+        "example_sentence": "We bought fresh fruit at the local market."
+      },
+      {
+        "word": "Currency exchange",
+        "transcription": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/",
+        "translation": "обмен валюты",
+        "definition": "The process of converting one currency into another.",
+        "example_sentence": "I need to find a currency exchange office."
+      },
+      {
+        "word": "Layover",
+        "transcription": "/ˈleɪˌoʊvər/",
+        "translation": "пересадка (в пути)",
+        "definition": "A period of rest or waiting before a further stage in a journey.",
+        "example_sentence": "We had a long layover in Dubai on our way to Australia."
+      },
+      {
+        "word": "Customs",
+        "transcription": "/ˈkʌstəmz/",
+        "translation": "таможня",
+        "definition": "The official department that administers and collects the duties levied on imported goods.",
+        "example_sentence": "We had to declare everything at customs."
+      },
+      {
+        "word": "Jet lag",
+        "transcription": "/ˈdʒɛt læɡ/",
+        "translation": "синдром смены часовых поясов",
+        "definition": "A feeling of tiredness and confusion experienced by travelers by plane to a different time zone.",
+        "example_sentence": "I'm still suffering from jet lag after my flight from New York."
+      }
+    ],
+    "quiz": {
+      "title": "Викторина: Путешествия",
+      "instructions": "Выберите правильный перевод для каждого слова, или слово для определения.",
+      "questions": [
+        {
+          "question_number": 1,
+          "text": "What does 'Passport' mean?",
+          "options": ["Посадочный талон", "Паспорт", "Виза", "Багаж"],
+          "correct_answer": "Паспорт",
+          "explanation": "'Passport' - это официальный документ для путешествий."
+        },
+        {
+          "question_number": 2,
+          "text": "Which word means 'зона выдачи багажа'?",
+          "options": ["Check-in", "Security check", "Baggage claim", "Departure lounge"],
+          "correct_answer": "Baggage claim",
+          "explanation": "'Baggage claim' - это место, где получают багаж в аэропорту."
+        },
+        {
+          "question_number": 3,
+          "text": "What is the meaning of 'Souvenir'?",
+          "options": ["Магазин", "Сувенир", "Подарок", "Билет"],
+          "correct_answer": "Сувенир",
+          "explanation": "'Souvenir' - это предмет, который хранится как напоминание о месте или событии."
+        },
+        {
+          "question_number": 4,
+          "text": "Which word means 'пересадка (в пути)'?",
+          "options": ["Take-off", "Landing", "Layover", "Stopover"],
+          "correct_answer": "Layover",
+          "explanation": "'Layover' - это период ожидания перед следующим этапом путешествия."
+        },
+        {
+          "question_number": 5,
+          "text": "The feeling of tiredness and confusion after a long flight across time zones is called:",
+          "options": ["Homesickness", "Jet lag", "Travel fatigue", "Altitude sickness"],
+          "correct_answer": "Jet lag",
+          "explanation": "Jet lag is specifically related to time zone changes during air travel."
+        }
+      ]
+    }
+  },
+  "Work & Career 💼": {
+    "words": [
+      {
+        "word": "Colleague",
+        "transcription": "/ˈkɒliːɡ/",
+        "translation": "коллега",
+        "definition": "A person with whom one works, especially in a profession or business.",
+        "example_sentence": "She introduced me to her new colleague at the meeting."
+      },
+      {
+        "word": "Teamwork",
+        "transcription": "/ˈtiːmwɜːrk/",
+        "translation": "командная работа",
+        "definition": "The combined action of a group of people, especially when effective and efficient.",
+        "example_sentence": "Effective teamwork is crucial for project success."
+      },
+      {
+        "word": "Promotion",
+        "transcription": "/prəˈməʊʃən/",
+        "translation": "повышение (по службе)",
+        "definition": "The action of promoting or being promoted to a higher rank or position.",
+        "example_sentence": "He received a promotion after five years of hard work."
+      },
+      {
+        "word": "Resume",
+        "transcription": "/rɪˈzjuːm/",
+        "translation": "резюме",
+        "definition": "A brief account of one's professional or work experience and qualifications, often submitted with a job application.",
+        "example_sentence": "Don't forget to attach your resume to the email."
+      },
+      {
+        "word": "Interview",
+        "transcription": "/ˈɪntərvjuː/",
+        "translation": "собеседование",
+        "definition": "A formal meeting at which a person is questioned to discover whether they are suitable for a job or a course of study.",
+        "example_sentence": "She has a job interview tomorrow morning."
+      },
+      {
+        "word": "Salary",
+        "transcription": "/ˈsæləri/",
+        "translation": "зарплата",
+        "definition": "A fixed regular payment, typically paid on a monthly or biweekly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker.",
+        "example_sentence": "His new job offers a good salary and benefits."
+      },
+      {
+        "word": "Workload",
+        "transcription": "/ˈwɜːrkˌloʊd/",
+        "translation": "объем работы, нагрузка",
+        "definition": "The amount of work that a person or organization has to do.",
+        "example_sentence": "I have a heavy workload this week due to the new project."
+      },
+      {
+        "word": "Skill set",
+        "transcription": "/ˈskɪl sɛt/",
+        "translation": "набор навыков",
+        "definition": "A person's range of abilities or qualities.",
+        "example_sentence": "Her diverse skill set makes her a valuable asset to the company."
+      },
+      {
+        "word": "Networking",
+        "transcription": "/ˈnɛtwɜːrkɪŋ/",
+        "translation": "нетворкинг, создание связей",
+        "definition": "The action or process of interacting with others to exchange information and develop professional or social contacts.",
+        "example_sentence": "Networking is important for career advancement."
+      },
+      {
+        "word": "Overtime",
+        "transcription": "/ˈoʊvərˌtaɪm/",
+        "translation": "сверхурочная работа",
+        "definition": "Time spent working in addition to one's regular working hours.",
+        "example_sentence": "He worked overtime to finish the report before the deadline."
+      },
+      {
+        "word": "Client",
+        "transcription": "/ˈklaɪənt/",
+        "translation": "клиент",
+        "definition": "A person or organization using the services of a lawyer or other professional person or company.",
+        "example_sentence": "We are meeting with a new client this afternoon."
+      },
+      {
+        "word": "Project",
+        "transcription": "/ˈprɒdʒɛkt/",
+        "translation": "проект",
+        "definition": "A planned piece of work that has a specific purpose and that usually requires a lot of time.",
+        "example_sentence": "The team is working on a new software project."
+      },
+      {
+        "word": "Meeting",
+        "transcription": "/ˈmiːtɪŋ/",
+        "translation": "встреча, собрание",
+        "definition": "An assembly of people for a particular purpose, especially for formal discussion.",
+        "example_sentence": "We have a team meeting every Monday morning."
+      },
+      {
+        "word": "Presentation",
+        "transcription": "/ˌprɛzənˈteɪʃən/",
+        "translation": "презентация",
+        "definition": "A formal talk by a person or a group, typically with a visual aid, to an audience.",
+        "example_sentence": "She gave an excellent presentation on the company's new strategy."
+      },
+      {
+        "word": "Feedback",
+        "transcription": "/ˈfiːdbæk/",
+        "translation": "обратная связь",
+        "definition": "Information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement.",
+        "example_sentence": "We received positive feedback from our customers."
+      },
+      {
+        "word": "Negotiation",
+        "transcription": "/nɪˌɡoʊʃiˈeɪʃən/",
+        "translation": "переговоры",
+        "definition": "Discussion aimed at reaching an agreement.",
+        "example_sentence": "The negotiation for the new contract took several weeks."
+      },
+      {
+        "word": "Innovation",
+        "transcription": "/ˌɪnəˈveɪʃən/",
+        "translation": "инновация",
+        "definition": "The action or process of innovating.",
+        "example_sentence": "The company is known for its constant innovation."
+      },
+      {
+        "word": "Productivity",
+        "transcription": "/ˌprɒdʌkˈtɪvəti/",
+        "translation": "производительность",
+        "definition": "The state or quality of producing something, especially crops.",
+        "example_sentence": "New software improved our team's productivity."
+      },
+      {
+        "word": "Work-life balance",
+        "transcription": "/ˈwɜːrk laɪf ˈbæləns/",
+        "translation": "баланс между работой и личной жизнью",
+        "definition": "The amount of time you spend doing your job compared with the amount of time you spend with your family and doing things you enjoy.",
+        "example_sentence": "Achieving a good work-life balance is important for well-being."
+      },
+      {
+        "word": "Remote work",
+        "transcription": "/rɪˈmoʊt wɜːrk/",
+        "translation": "удаленная работа",
+        "definition": "A working arrangement in which employees do not commute to a central place of work.",
+        "example_sentence": "Remote work has become more common since the pandemic."
+      }
+    ],
+    "quiz": {
+      "title": "Викторина: Работа и карьера",
+      "instructions": "Выберите правильный перевод для каждого слова, или слово для определения.",
+      "questions": [
+        {
+          "question_number": 1,
+          "text": "What does 'Colleague' mean?",
+          "options": ["Клиент", "Босс", "Коллега", "Подчиненный"],
+          "correct_answer": "Коллега",
+          "explanation": "'Colleague' - это человек, с которым работаешь."
+        },
+        {
+          "question_number": 2,
+          "text": "Which word means 'крайний срок'?",
+          "options": ["Schedule", "Deadline", "Timetable", "Overtime"],
+          "correct_answer": "Deadline",
+          "explanation": "'Deadline' - это крайний срок выполнения работы."
+        },
+        {
+          "question_number": 3,
+          "text": "What is 'Resume'?",
+          "options": ["Отпуск", "Собеседование", "Резюме", "Зарплата"],
+          "correct_answer": "Резюме",
+          "explanation": "'Resume' - это краткое описание опыта и квалификации."
+        },
+        {
+          "question_number": 4,
+          "text": "Which word describes working additional hours beyond regular ones?",
+          "options": ["Part-time", "Full-time", "Overtime", "Freelance"],
+          "correct_answer": "Overtime",
+          "explanation": "'Overtime' - это сверхурочная работа."
+        },
+        {
+          "question_number": 5,
+          "text": "Discussion aimed at reaching an agreement is called:",
+          "options": ["Meeting", "Presentation", "Negotiation", "Debate"],
+          "correct_answer": "Negotiation",
+          "explanation": "Negotiation is a formal discussion to reach an agreement."
+        }
+      ]
+    }
+  },
+  "Food & Cooking 🍔": {
+    "words": [
+      {
+        "word": "Cuisine",
+        "transcription": "/kwɪˈziːn/",
+        "translation": "кухня (национальная, тип еды)",
+        "definition": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment.",
+        "example_sentence": "French cuisine is famous worldwide."
+      },
+      {
+        "word": "Recipe",
+        "transcription": "/ˈrɛsəpi/",
+        "translation": "рецепт",
+        "definition": "A set of instructions for preparing a particular dish, including a list of the ingredients required.",
+        "example_sentence": "Can you share your cake recipe?"
+      },
+      {
+        "word": "Ingredients",
+        "transcription": "/ɪnˈɡriːdiənts/",
+        "translation": "ингредиенты",
+        "definition": "Any of the foods or substances that are combined to make a particular dish.",
+        "example_sentence": "I have all the ingredients for the soup."
+      },
+      {
+        "word": "Bake",
+        "transcription": "/beɪk/",
+        "translation": "печь (в духовке)",
+        "definition": "Cook (food) by dry heat without direct exposure to a flame, typically in an oven or on a hot surface.",
+        "example_sentence": "She loves to bake bread on weekends."
+      },
+      {
+        "word": "Boil",
+        "transcription": "/bɔɪl/",
+        "translation": "кипятить, варить",
+        "definition": "(Of a liquid) reach or cause to reach the temperature at which it bubbles and turns to vapor.",
+        "example_sentence": "Please boil some water for pasta."
+      },
+      {
+        "word": "Fry",
+        "transcription": "/fraɪ/",
+        "translation": "жарить (на сковороде)",
+        "definition": "Cook (food) in hot fat or oil.",
+        "example_sentence": "Let's fry some eggs for breakfast."
+      },
+      {
+        "word": "Grill",
+        "transcription": "/ɡrɪl/",
+        "translation": "жарить на гриле",
+        "definition": "Cook (food) using a grill.",
+        "example_sentence": "We'll grill some chicken for dinner."
+      },
+      {
+        "word": "Roast",
+        "transcription": "/roʊst/",
+        "translation": "жарить (в духовке, целиком)",
+        "definition": "Cook (food, especially meat or vegetables) by prolonged exposure to heat in an oven or over a fire.",
+        "example_sentence": "She decided to roast a whole chicken."
+      },
+      {
+        "word": "Chop",
+        "transcription": "/tʃɒp/",
+        "translation": "рубить, нарезать",
+        "definition": "Cut (something) into small pieces.",
+        "example_sentence": "Chop the onions finely."
+      },
+      {
+        "word": "Slice",
+        "transcription": "/slaɪs/",
+        "translation": "нарезать ломтиками",
+        "definition": "Cut (something) into thin pieces.",
+        "example_sentence": "Slice the tomatoes for the salad."
+      },
+      {
+        "word": "Peel",
+        "transcription": "/piːl/",
+        "translation": "чистить (кожуру)",
+        "definition": "Remove the outer covering or skin from (a fruit, vegetable, or shrimp).",
+        "example_sentence": "Don't forget to peel the potatoes before cooking."
+      },
+      {
+        "word": "Taste",
+        "transcription": "/teɪst/",
+        "translation": "вкус; пробовать",
+        "definition": "The sensation of flavor perceived in the mouth and throat on contact with a substance.",
+        "example_sentence": "This soup tastes delicious!"
+      },
+      {
+        "word": "Serve",
+        "transcription": "/sɜːrv/",
+        "translation": "подавать (еду)",
+        "definition": "Present (food or drink) to someone.",
+        "example_sentence": "Dinner is ready to serve."
+      },
+      {
+        "word": "Dessert",
+        "transcription": "/dɪˈzɜːrt/",
+        "translation": "десерт",
+        "definition": "The sweet course eaten at the end of a meal.",
+        "example_sentence": "What's for dessert tonight?"
+      },
+      {
+        "word": "Appetizer",
+        "transcription": "/ˈæpɪtaɪzər/",
+        "translation": "закуска",
+        "definition": "A small dish of food or a drink taken before a meal or the main course of a meal to stimulate one's appetite.",
+        "example_sentence": "We ordered some spring rolls as an appetizer."
+      },
+      {
+        "word": "Main course",
+        "transcription": "/meɪn kɔːrs/",
+        "translation": "основное блюдо",
+        "definition": "The principal dish of a meal.",
+        "example_sentence": "For the main course, I'll have the steak."
+      },
+      {
+        "word": "Utensil",
+        "transcription": "/juːˈtɛnsɪl/",
+        "translation": "кухонный прибор",
+        "definition": "A tool, container, or other article, especially for household use.",
+        "example_sentence": "She sharpened all her kitchen utensils."
+      },
+      {
+        "word": "Dine out",
+        "transcription": "/daɪn aʊt/",
+        "translation": "ужинать вне дома",
+        "definition": "To eat dinner in a restaurant.",
+        "example_sentence": "We often dine out on weekends."
+      },
+      {
+        "word": "Leftovers",
+        "transcription": "/ˈlɛftˌoʊvərz/",
+        "translation": "остатки еды",
+        "definition": "Food that has not been eaten at the end of a meal and that is often eaten later.",
+        "example_sentence": "I'll have the leftovers for lunch tomorrow."
+      },
+      {
+        "word": "Spice",
+        "transcription": "/spaɪs/",
+        "translation": "специя, пряность",
+        "definition": "An aromatic or pungent vegetable substance used to flavor food, e.g., cloves, pepper, or cumin.",
+        "example_sentence": "This dish needs more spice."
+      }
+    ],
+    "quiz": {
+      "title": "Викторина: Еда и кулинария",
+      "instructions": "Выберите правильный перевод для каждого слова, или слово для определения.",
+      "questions": [
+        {
+          "question_number": 1,
+          "text": "What does 'Cuisine' mean?",
+          "options": ["Кухня (место)", "Кухня (тип еды)", "Повар", "Рецепт"],
+          "correct_answer": "Кухня (тип еды)",
+          "explanation": "'Cuisine' относится к стилю или методу приготовления пищи."
+        },
+        {
+          "question_number": 2,
+          "text": "Which word means 'жарить (в духовке, целиком)'?",
+          "options": ["Bake", "Boil", "Fry", "Roast"],
+          "correct_answer": "Roast",
+          "explanation": "'Roast' используется для приготовления пищи целиком в духовке или на огне."
+        },
+        {
+          "question_number": 3,
+          "text": "What is 'Ingredients'?",
+          "options": ["Приправы", "Посуда", "Ингредиенты", "Блюда"],
+          "correct_answer": "Ингредиенты",
+          "explanation": "'Ingredients' - это продукты, используемые для приготовления блюда."
+        },
+        {
+          "question_number": 4,
+          "text": "Which word describes cutting something into small pieces?",
+          "options": ["Slice", "Peel", "Chop", "Grate"],
+          "correct_answer": "Chop",
+          "explanation": "'Chop' означает нарезать на мелкие кусочки."
+        },
+        {
+          "question_number": 5,
+          "text": "The sweet course eaten at the end of a meal is called:",
+          "options": ["Appetizer", "Main course", "Dessert", "Side dish"],
+          "correct_answer": "Dessert",
+          "explanation": "Dessert is the sweet course served at the end of a meal."
+        }
+      ]
+    }
+  }
+}

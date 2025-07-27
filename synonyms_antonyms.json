@@ -1,0 +1,368 @@
+{
+  "Adjectives (Common) 🌟": [
+    {
+      "word": "Happy",
+      "transcription": "/ˈhæpi/",
+      "translation": "счастливый",
+      "synonyms": ["joyful", "cheerful", "glad", "delighted", "merry", "pleased", "content", "ecstatic"],
+      "antonyms": ["sad", "unhappy", "miserable", "depressed", "gloomy", "sorrowful", "downcast", "melancholy"],
+      "example_sentence": "She felt very happy after receiving the good news."
+    },
+    {
+      "word": "Big",
+      "transcription": "/bɪɡ/",
+      "translation": "большой",
+      "synonyms": ["large", "huge", "enormous", "giant", "massive", "colossal", "immense", "sizable"],
+      "antonyms": ["small", "tiny", "little", "miniature", "petite", "minute", "insignificant"],
+      "example_sentence": "They live in a big house with a large garden."
+    },
+    {
+      "word": "New",
+      "transcription": "/njuː/",
+      "translation": "новый",
+      "synonyms": ["fresh", "recent", "modern", "novel", "original", "latest", "unfamiliar", "unworn"],
+      "antonyms": ["old", "ancient", "outdated", "archaic", "worn", "familiar", "traditional"],
+      "example_sentence": "We bought a new car last month."
+    },
+    {
+      "word": "Good",
+      "transcription": "/ɡʊd/",
+      "translation": "хороший",
+      "synonyms": ["excellent", "fine", "great", "superior", "pleasant", "agreeable", "virtuous", "competent"],
+      "antonyms": ["bad", "poor", "terrible", "inferior", "unpleasant", "evil", "incompetent"],
+      "example_sentence": "She's a very good student and always gets high grades."
+    },
+    {
+      "word": "Bad",
+      "transcription": "/bæd/",
+      "translation": "плохой",
+      "synonyms": ["poor", "terrible", "awful", "inferior", "unpleasant", "evil", "wicked", "harmful"],
+      "antonyms": ["good", "excellent", "fine", "superior", "pleasant", "virtuous", "beneficial"],
+      "example_sentence": "That was a bad decision that led to many problems."
+    },
+    {
+      "word": "Hot",
+      "transcription": "/hɒt/",
+      "translation": "горячий, жаркий",
+      "synonyms": ["burning", "scorching", "fiery", "boiling", "warm", "heated", "sweltering"],
+      "antonyms": ["cold", "freezing", "chilly", "icy", "cool"],
+      "example_sentence": "Be careful, the plate is very hot."
+    },
+    {
+      "word": "Cold",
+      "transcription": "/koʊld/",
+      "translation": "холодный",
+      "synonyms": ["chilly", "freezing", "icy", "frigid", "nippy", "wintry"],
+      "antonyms": ["hot", "warm", "heated", "scorching"],
+      "example_sentence": "It's cold outside, so wear a warm jacket."
+    },
+    {
+      "word": "Fast",
+      "transcription": "/fɑːst/",
+      "translation": "быстрый",
+      "synonyms": ["quick", "rapid", "swift", "speedy", "express"],
+      "antonyms": ["slow", "leisurely", "gradual"],
+      "example_sentence": "He's a very fast runner."
+    },
+    {
+      "word": "Slow",
+      "transcription": "/sloʊ/",
+      "translation": "медленный",
+      "synonyms": ["gradual", "leisurely", "unhurried", "plodding"],
+      "antonyms": ["fast", "quick", "rapid", "swift"],
+      "example_sentence": "The traffic was very slow during rush hour."
+    },
+    {
+      "word": "Easy",
+      "transcription": "/ˈiːzi/",
+      "translation": "легкий (простой)",
+      "synonyms": ["simple", "straightforward", "effortless", "uncomplicated"],
+      "antonyms": ["difficult", "hard", "complex", "challenging"],
+      "example_sentence": "The test was surprisingly easy."
+    },
+    {
+      "word": "Hard",
+      "transcription": "/hɑːrd/",
+      "translation": "трудный, жесткий",
+      "synonyms": ["difficult", "tough", "challenging", "strenuous", "firm", "solid"],
+      "antonyms": ["easy", "simple", "soft", "flexible"],
+      "example_sentence": "It's a hard problem to solve."
+    },
+    {
+      "word": "Clean",
+      "transcription": "/kliːn/",
+      "translation": "чистый",
+      "synonyms": ["spotless", "immaculate", "pure", "unblemished", "hygienic"],
+      "antonyms": ["dirty", "filthy", "stained", "unclean"],
+      "example_sentence": "Please keep your room clean."
+    },
+    {
+      "word": "Dirty",
+      "transcription": "/ˈdɜːrti/",
+      "translation": "грязный",
+      "synonyms": ["unclean", "filthy", "grimy", "soiled", "stained"],
+      "antonyms": ["clean", "spotless", "immaculate", "pure"],
+      "example_sentence": "Your hands are very dirty."
+    },
+    {
+      "word": "True",
+      "transcription": "/truː/",
+      "translation": "верный, истинный",
+      "synonyms": ["correct", "accurate", "factual", "real", "genuine"],
+      "antonyms": ["false", "incorrect", "untrue", "fake", "fictional"],
+      "example_sentence": "Is it true that you're moving?"
+    },
+    {
+      "word": "False",
+      "transcription": "/fɔːls/",
+      "translation": "ложный, неверный",
+      "synonyms": ["incorrect", "untrue", "mistaken", "erroneous", "fake", "bogus"],
+      "antonyms": ["true", "correct", "accurate", "genuine", "real"],
+      "example_sentence": "That statement is completely false."
+    }
+  ],
+  "Verbs (Common) 🚀": [
+    {
+      "word": "Start",
+      "transcription": "/stɑːrt/",
+      "translation": "начинать",
+      "synonyms": ["begin", "commence", "initiate", "launch", "originate", "establish"],
+      "antonyms": ["stop", "finish", "end", "conclude", "cease", "terminate"],
+      "example_sentence": "Let's start the meeting at 9 AM."
+    },
+    {
+      "word": "Go",
+      "transcription": "/ɡoʊ/",
+      "translation": "идти, ехать",
+      "synonyms": ["move", "proceed", "depart", "travel", "advance", "walk", "drive"],
+      "antonyms": ["stay", "remain", "stop", "halt", "arrive", "return"],
+      "example_sentence": "I need to go to the store."
+    },
+    {
+      "word": "Come",
+      "transcription": "/kʌm/",
+      "translation": "приходить",
+      "synonyms": ["arrive", "approach", "reach", "appear"],
+      "antonyms": ["go", "leave", "depart", "exit"],
+      "example_sentence": "Will you come to the party tonight?"
+    },
+    {
+      "word": "See",
+      "transcription": "/siː/",
+      "translation": "видеть",
+      "synonyms": ["view", "observe", "perceive", "spot", "notice", "glance", "watch"],
+      "antonyms": ["miss", "overlook", "ignore"],
+      "example_sentence": "Did you see that bird?"
+    },
+    {
+      "word": "Make",
+      "transcription": "/meɪk/",
+      "translation": "делать, создавать",
+      "synonyms": ["create", "build", "construct", "produce", "manufacture", "form"],
+      "antonyms": ["destroy", "break", "demolish"],
+      "example_sentence": "She likes to make her own clothes."
+    },
+    {
+      "word": "Give",
+      "transcription": "/ɡɪv/",
+      "translation": "давать",
+      "synonyms": ["provide", "supply", "offer", "hand over", "present"],
+      "antonyms": ["take", "receive", "accept", "withhold"],
+      "example_sentence": "Please give me the book."
+    },
+    {
+      "word": "Take",
+      "transcription": "/teɪk/",
+      "translation": "брать",
+      "synonyms": ["receive", "accept", "grab", "seize", "acquire"],
+      "antonyms": ["give", "offer", "provide", "release"],
+      "example_sentence": "Can you take this bag for me?"
+    },
+    {
+      "word": "Know",
+      "transcription": "/noʊ/",
+      "translation": "знать",
+      "synonyms": ["understand", "comprehend", "be aware of", "recognize"],
+      "antonyms": ["ignore", "be ignorant of", "forget"],
+      "example_sentence": "I know the answer to that question."
+    },
+    {
+      "word": "Tell",
+      "transcription": "/tɛl/",
+      "translation": "рассказывать, говорить",
+      "synonyms": ["inform", "notify", "communicate", "narrate", "reveal"],
+      "antonyms": ["conceal", "hide", "listen"],
+      "example_sentence": "Tell me what happened."
+    },
+    {
+      "word": "Ask",
+      "transcription": "/ɑːsk/",
+      "translation": "спрашивать",
+      "synonyms": ["inquire", "question", "query", "request"],
+      "antonyms": ["answer", "reply", "respond"],
+      "example_sentence": "If you don't understand, please ask."
+    },
+    {
+      "word": "Work",
+      "transcription": "/wɜːrk/",
+      "translation": "работать",
+      "synonyms": ["labor", "toil", "function", "operate", "perform"],
+      "antonyms": ["rest", "relax", "fail (of machine)"],
+      "example_sentence": "I work in an office from Monday to Friday."
+    },
+    {
+      "word": "Find",
+      "transcription": "/faɪnd/",
+      "translation": "находить",
+      "synonyms": ["discover", "locate", "uncover", "detect", "spot"],
+      "antonyms": ["lose", "misplace", "miss"],
+      "example_sentence": "Did you find your keys?"
+    },
+    {
+      "word": "Use",
+      "transcription": "/juːz/",
+      "translation": "использовать",
+      "synonyms": ["utilize", "employ", "apply", "operate", "handle"],
+      "antonyms": ["misuse", "discard", "neglect"],
+      "example_sentence": "Can I use your pen for a moment?"
+    },
+    {
+      "word": "Want",
+      "transcription": "/wɒnt/",
+      "translation": "хотеть",
+      "synonyms": ["desire", "wish", "crave", "require", "need"],
+      "antonyms": ["dislike", "reject", "refuse"],
+      "example_sentence": "I want a new smartphone."
+    },
+    {
+      "word": "Show",
+      "transcription": "/ʃoʊ/",
+      "translation": "показывать",
+      "synonyms": ["display", "exhibit", "present", "demonstrate", "reveal"],
+      "antonyms": ["hide", "conceal", "cover"],
+      "example_sentence": "Can you show me how to use this?"
+    }
+  ],
+  "Nouns (Common) 📚": [
+    {
+      "word": "Problem",
+      "transcription": "/ˈprɒbləm/",
+      "translation": "проблема",
+      "synonyms": ["issue", "difficulty", "challenge", "trouble", "complication", "dilemma"],
+      "antonyms": ["solution", "answer", "ease", "advantage", "benefit"],
+      "example_sentence": "We need to find a solution to this problem."
+    },
+    {
+      "word": "Help",
+      "transcription": "/hɛlp/",
+      "translation": "помощь",
+      "synonyms": ["assistance", "support", "aid", "relief", "cooperation", "contribution"],
+      "antonyms": ["hindrance", "obstruction", "disadvantage", "impediment"],
+      "example_sentence": "Thank you for your help with the project."
+    },
+    {
+      "word": "Time",
+      "transcription": "/taɪm/",
+      "translation": "время",
+      "synonyms": ["period", "duration", "era", "epoch", "moment", "interval"],
+      "antonyms": ["timelessness", "eternity"],
+      "example_sentence": "What time is it?"
+    },
+    {
+      "word": "Day",
+      "transcription": "/deɪ/",
+      "translation": "день",
+      "synonyms": ["daylight", "period of 24 hours"],
+      "antonyms": ["night", "darkness"],
+      "example_sentence": "Have a good day!"
+    },
+    {
+      "word": "Life",
+      "transcription": "/laɪf/",
+      "translation": "жизнь",
+      "synonyms": ["existence", "being", "vitality", "liveliness"],
+      "antonyms": ["death", "nonexistence"],
+      "example_sentence": "Life is full of surprises."
+    },
+    {
+      "word": "Work",
+      "transcription": "/wɜːrk/",
+      "translation": "работа, труд",
+      "synonyms": ["job", "occupation", "employment", "task", "labor"],
+      "antonyms": ["leisure", "rest", "unemployment"],
+      "example_sentence": "I have a lot of work to do today."
+    },
+    {
+      "word": "Place",
+      "transcription": "/pleɪs/",
+      "translation": "место",
+      "synonyms": ["location", "spot", "site", "area", "position"],
+      "antonyms": ["displacement"],
+      "example_sentence": "This is a beautiful place."
+    },
+    {
+      "word": "Friend",
+      "transcription": "/frɛnd/",
+      "translation": "друг",
+      "synonyms": ["companion", "buddy", "pal", "acquaintance", "ally"],
+      "antonyms": ["enemy", "foe", "adversary"],
+      "example_sentence": "She is my best friend."
+    },
+    {
+      "word": "Money",
+      "transcription": "/ˈmʌni/",
+      "translation": "деньги",
+      "synonyms": ["cash", "currency", "funds", "wealth", "capital"],
+      "antonyms": ["debt", "poverty"],
+      "example_sentence": "I need some money to buy groceries."
+    },
+    {
+      "word": "Love",
+      "transcription": "/lʌv/",
+      "translation": "любовь",
+      "synonyms": ["affection", "devotion", "fondness", "passion", "adoration"],
+      "antonyms": ["hate", "dislike", "aversion", "hatred"],
+      "example_sentence": "Love is a powerful emotion."
+    },
+    {
+      "word": "World",
+      "transcription": "/wɜːrld/",
+      "translation": "мир",
+      "synonyms": ["earth", "globe", "universe", "planet"],
+      "antonyms": ["local area"],
+      "example_sentence": "It's a big world out there."
+    },
+    {
+      "word": "Hand",
+      "transcription": "/hænd/",
+      "translation": "рука (кисть)",
+      "synonyms": ["palm", "fist"],
+      "antonyms": ["foot"],
+      "example_sentence": "He shook my hand warmly."
+    },
+    {
+      "word": "Eye",
+      "transcription": "/aɪ/",
+      "translation": "глаз",
+      "synonyms": ["orb", "peeper (informal)"],
+      "antonyms": [],
+      "example_sentence": "She has beautiful blue eyes."
+    },
+    {
+      "word": "Head",
+      "transcription": "/hɛd/",
+      "translation": "голова",
+      "synonyms": ["skull", "cranium", "mind", "leader"],
+      "antonyms": ["foot", "tail"],
+      "example_sentence": "He nodded his head in agreement."
+    },
+    {
+      "word": "Water",
+      "transcription": "/ˈwɔːtər/",
+      "translation": "вода",
+      "synonyms": ["H2O", "aqua"],
+      "antonyms": ["land"],
+      "example_sentence": "Please give me a glass of water."
+    }
+  ]
+}
