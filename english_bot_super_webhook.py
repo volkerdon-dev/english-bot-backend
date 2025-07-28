@@ -360,10 +360,19 @@ async def process_game_answer(message: types.Message):
 
 @dp.message_handler(commands=["start"])
 async def start(message: types.Message):
-    chat_id = message.chat.id
-    user_paths[chat_id] = []
-    user_state[chat_id] = {}
-    await message.answer("👋 Добро пожаловать! Пожалуйста, выберите раздел:", reply_markup=build_main_menu(main_menu_data))
+    logging.info(f"Start command received from user {message.from_user.id} (chat_id: {message.chat.id})")
+    try:
+        chat_id = message.chat.id
+        user_paths[chat_id] = []
+        user_state[chat_id] = {}
+        logging.info(f"User paths and state initialized for chat_id: {chat_id}")
+        
+        response = await message.answer("👋 Добро пожаловать! Пожалуйста, выберите раздел:", reply_markup=build_main_menu(main_menu_data))
+        logging.info(f"Start message sent successfully to chat_id: {chat_id}")
+        return response
+    except Exception as e:
+        logging.error(f"Error in start command: {e}", exc_info=True)
+        await message.answer("Произошла ошибка при запуске бота. Попробуйте еще раз.")
 
 # WebApp functionality temporarily disabled
 # @dp.message_handler(content_types=types.ContentType.WEB_APP_DATA)
@@ -818,6 +827,14 @@ async def handle_webhook(request):
         logging.info(f"Received webhook request: {request.method} {request.path}")
         update_data = await request.json()
         logging.info(f"Update data: {update_data}")
+        
+        # Проверяем, есть ли сообщение в update
+        if 'message' in update_data:
+            message_data = update_data['message']
+            chat_id = message_data.get('chat', {}).get('id')
+            text = message_data.get('text', '')
+            logging.info(f"Processing message: chat_id={chat_id}, text='{text}'")
+        
         update = types.Update.to_object(update_data)
         await dp.process_update(update)
         logging.info("Webhook processed successfully")
