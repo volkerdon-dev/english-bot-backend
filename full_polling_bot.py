@@ -187,6 +187,7 @@ async def navigate(message: types.Message):
     
     path = user_paths.get(chat_id, [])
     
+    # Обработка специальных кнопок
     if text == "🏠 В начало":
         await start(message)
         return
@@ -199,7 +200,10 @@ async def navigate(message: types.Message):
                 await start(message)
             else:
                 current_data_level = get_node(main_menu_data, path)
-                await message.answer("Вы вернулись назад:", reply_markup=build_menu_from_dict(current_data_level))
+                if current_data_level:
+                    await message.answer("Вы вернулись назад:", reply_markup=build_menu_from_dict(current_data_level))
+                else:
+                    await start(message)
         return
     
     # Обработка команд
@@ -213,13 +217,16 @@ async def navigate(message: types.Message):
             path.append(text)
             user_paths[chat_id] = path
             current_data_level = get_node(main_menu_data, path)
-            await message.answer(f"Вы выбрали: *{main_menu_data[text]['title']}*", parse_mode="Markdown", reply_markup=build_menu_from_dict(current_data_level))
+            if current_data_level:
+                await message.answer(f"Вы выбрали: *{main_menu_data[text]['title']}*", parse_mode="Markdown", reply_markup=build_menu_from_dict(current_data_level))
+            else:
+                await message.answer("Раздел не найден.")
         else:
             await message.answer("Пожалуйста, используйте кнопки меню.")
     else:
         # Мы в подменю
         current_data_level = get_node(main_menu_data, path)
-        if text in current_data_level:
+        if current_data_level and text in current_data_level:
             path.append(text)
             user_paths[chat_id] = path
             next_data_level = get_node(main_menu_data, path)
@@ -231,6 +238,15 @@ async def navigate(message: types.Message):
             elif isinstance(next_data_level, dict):
                 # Это подменю
                 await message.answer(f"Выберите подраздел:", reply_markup=build_menu_from_dict(next_data_level))
+            elif isinstance(next_data_level, list):
+                # Это список контента
+                content_text = f"*{text}*\n\n"
+                for i, item in enumerate(next_data_level[:10], 1):  # Показываем первые 10 элементов
+                    if isinstance(item, dict):
+                        content_text += f"{i}. {item.get('title', item.get('word', str(item)))}\n"
+                    else:
+                        content_text += f"{i}. {item}\n"
+                await message.answer(content_text, parse_mode="Markdown")
             else:
                 await message.answer("Контент не найден.")
         else:
