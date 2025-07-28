@@ -23,7 +23,11 @@ if not API_TOKEN:
 
 # Инициализация бота
 bot = Bot(token=API_TOKEN)
+Bot.set_current(bot)  # Устанавливаем текущий экземпляр бота
 dp = Dispatcher(bot)
+Dispatcher.set_current(dp)  # Устанавливаем текущий диспетчер
+
+logger.info("Bot and Dispatcher initialized successfully")
 
 # Простой обработчик команды /start
 @dp.message_handler(commands=["start"])
@@ -75,6 +79,7 @@ async def on_startup(app):
 async def on_shutdown(app):
     logger.info("Shutting down bot...")
     await bot.delete_webhook()
+    await bot.session.close()
 
 # Создаем приложение
 app = web.Application()
