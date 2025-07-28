@@ -128,10 +128,10 @@ def get_node(data: dict, current_path: list):
                 "exercises_data/general_practice/sentence_structure_drills.json": sentence_structure_drills_data,
                 "exercises_data/general_practice/constructions_drills.json": constructions_drills_data,
                 "exercises_data/general_practice/common_mistakes_drills.json": common_mistakes_drills_data,
-                "vocabulary_quizzes_data": "exercises_data/general_practice/vocabulary_quizzes.json": vocabulary_quizzes_data,
-                "sentence_building_data": "exercises_data/interactive_challenges/sentence_building.json": sentence_building_data,
-                "listening_comprehension_data": "exercises_data/interactive_challenges/listening_comprehension.json": listening_comprehension_data,
-                "daily_challenges_data": "exercises_data/daily_challenges.json": daily_challenges_data,
+                "exercises_data/general_practice/vocabulary_quizzes.json": vocabulary_quizzes_data,
+                "exercises_data/interactive_challenges/sentence_building.json": sentence_building_data,
+                "exercises_data/interactive_challenges/listening_comprehension.json": listening_comprehension_data,
+                "exercises_data/daily_challenges.json": daily_challenges_data,
             }
             
             if source_file in data_map:
