@@ -4,6 +4,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python3 -u minimal_bot.py"
+    "startCommand": "python3 -u polling_bot.py"
   }
 }
